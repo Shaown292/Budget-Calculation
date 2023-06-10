@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "496380132132",
+    "project_id": "calculating-budget",
+    "storage_bucket": "calculating-budget.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:496380132132:android:2ef7eef0ba67a92c5091b1",
+        "android_client_info": {
+          "package_name": "com.kzshaown.calculating_budget"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "496380132132-1lpsemj5auk1v4e1hrn0njqp435n7ikk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kzshaown.calculating_budget",
+            "certificate_hash": "e7d6e51f639cd85da5158f1cf77d1f3f5ca0d925"
+          }
+        },
+        {
+          "client_id": "496380132132-cbin29augbji066gnb6752p5tlpvlb2n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUYSRBltMlUm3TJnliRgd8vkPbrRQ-CoI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "496380132132-cbin29augbji066gnb6752p5tlpvlb2n.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "496380132132-br6n12rtlsa3br75c44lk5087gsu7d54.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.apple.product-type.bundle.unit-test"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
